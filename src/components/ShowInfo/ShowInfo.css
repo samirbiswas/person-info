@@ -1,0 +1,26 @@
+.show-info{
+    display: flex;
+    border: 2px solid gray;
+    margin: 20px;
+    background-color: rgb(204, 203, 231);
+    border-radius: 10px;
+    
+}
+.show-info img{
+    height: 140px;
+    
+    padding-left: 10px;
+    padding-top:10px ;
+    border-radius: 15px;
+}
+.only-info{
+    padding-left: 20px;
+}
+button{
+    width: 100px;
+    height: 25px;
+    background-color: rgb(174, 233, 223);
+    border: 2px solid wheat;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}

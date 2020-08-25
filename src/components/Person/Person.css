@@ -1,0 +1,14 @@
+.person{
+    display:flex;
+    margin-left: 10%;
+}
+
+.person-info{
+    width: 70%;
+    
+}
+    
+
+.cart{
+    margin-left:5px;
+}
